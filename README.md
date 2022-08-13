@@ -21,8 +21,10 @@
 
 <!--stats-->
 ## My Github Stats
-<div>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktbatou&theme=dracula" />
+<div align ="center">
+ <div align ="center">
+<img align="center" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ktbatou&theme=dracula" />
+ </div>
   <br/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ktbatou&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktbatou&theme=dracula"/>
