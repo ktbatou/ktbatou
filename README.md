@@ -28,10 +28,10 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ktbatou&theme=dracula"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktbatou&theme=dracula"/>
   </div>
-  
+  </br>
   <!-- Show love-->
 
-<h3 align="center"> Show some ❤️ by starring ✨ some of the repositories! </h3>
+<h2 align="center"> Show some ❤️ by starring ✨ some of the repositories! </h2>
 
 [twitter-shield]: 
 https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
