@@ -9,15 +9,10 @@
 
 - 🔭 I’m currently working on : 3D project with ReactNative⚡.
 - 🌱 I’m currently learning : Three.js 🤔
-- 😄 Check my portfolio (beta):  https://ktbatou.tech/
 
-<!-- Lets Connect-->
-## Let's connect  😄
+- 😄 Check my portfolio (beta):  [**Portfolio**](https://ktbatou.tech/)
 
- [![twitter][twitter-shield]][twitter-url]
- 
- [![LinkedIn][linkedin-shield]][linkedin-url]
- 
+
 
 <!--stats-->
 ## My Github Stats
@@ -31,6 +26,15 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ktbatou&theme=dracula"/>
   </div>
   </br>
+ 
+<!-- Lets Connect-->
+## Let's connect  😄
+
+ [![twitter][twitter-shield]][twitter-url]
+ 
+ [![LinkedIn][linkedin-shield]][linkedin-url]
+ 
+
   <!-- Show love-->
 
 <h2 align="center"> Show some ❤️ by starring ✨ some of the repositories! </h2>
