@@ -3,7 +3,7 @@
 
 <!--Description-->
 <div align="center">
-<h5>Flutter Developer ,👨🏽‍💻 I’m currently studying at 1337 Coding school (42 Network)<h5>
+<h5>Mobile Developer 👨🏽‍💻 (Flutter | Dart | ReactNative | React js | Javascript)<h5>
 <img src="https://komarev.com/ghpvc/?username=ktbatou&label=Profile%20views&color=0e75b6&style=flat"/>
 </div>
 
